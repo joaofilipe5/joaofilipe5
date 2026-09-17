@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="AI automation" src="https://img.shields.io/badge/AI%20automation-001A70?style=for-the-badge">
-  <img alt="Optimization" src="https://img.shields.io/badge/Optimization-123F87?style=for-the-badge">
+  <img alt="Optimization" src="https://img.shields.io/badge/Optimization-001A70?style=for-the-badge">
   <img alt="Integer programming" src="https://img.shields.io/badge/Integer%20programming-0B5FA8?style=for-the-badge">
   <img alt="Quantitative logistics and finance" src="https://img.shields.io/badge/Quant%20logistics%20%26%20finance-0079BE?style=for-the-badge">
 </p>
@@ -104,7 +103,7 @@ Two systems I design and build for a **Portuguese freight forwarder** take most 
 Both repositories are private and the client is not named, so the summaries below stand in for code I
 cannot link.
 
-### Operations platform &nbsp; <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B5FA8?style=flat-square&logo=typescript&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0B5FA8?style=flat-square&logo=postgresql&logoColor=white"> <img alt="Status: preparing for rollout" src="https://img.shields.io/badge/status-preparing%20for%20rollout-0079BE?style=flat-square&labelColor=203850">
+### Operations platform &nbsp; <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img alt="Status: preparing for rollout" src="https://img.shields.io/badge/status-preparing%20for%20rollout-0079BE?style=flat-square&labelColor=203850">
 
 The system that replaces spreadsheets and email across the life of a shipment — quotation, award,
 operation, documentation, delivery. It carries the commercial layer too: sell price against cost, margin
@@ -122,7 +121,7 @@ to stop and ask rather than to pick the convenient one or to invent a third answ
 no hosting or scheduler yet and it has not yet run on a live shipment — the documentation says so on its
 front page, and so do I.
 
-### Customs filing automation &nbsp; <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B5FA8?style=flat-square&logo=javascript&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-0B5FA8?style=flat-square&logo=python&logoColor=white"> <img alt="OCR" src="https://img.shields.io/badge/OCR-Tesseract-0B5FA8?style=flat-square&labelColor=203850">
+### Customs filing automation &nbsp; <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="OCR" src="https://img.shields.io/badge/OCR-Tesseract-0B5FA8?style=flat-square&labelColor=203850">
 
 A browser extension that removes the manual re-typing between a customs declaration and a government
 filing portal, in both directions of the warehouse — goods in and goods out. It reads the declaration and
@@ -165,16 +164,20 @@ script emits the same core as a userscript for machines where extensions are loc
 </p>
 
 <p align="center">
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-123F87?style=flat-square&logo=pandas&logoColor=white">
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-123F87?style=flat-square&logo=latex&logoColor=white">
-  <img alt="Gurobi" src="https://img.shields.io/badge/Gurobi-123F87?style=flat-square">
-  <img alt="CBC" src="https://img.shields.io/badge/CBC-123F87?style=flat-square">
-  <img alt="PuLP" src="https://img.shields.io/badge/PuLP-123F87?style=flat-square">
-  <img alt="Simul8" src="https://img.shields.io/badge/Simul8-123F87?style=flat-square">
-  <img alt="Stata" src="https://img.shields.io/badge/Stata-123F87?style=flat-square">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-123F87?style=flat-square">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-123F87?style=flat-square">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
+  <img alt="Gurobi" src="https://img.shields.io/badge/Gurobi-EE3524?style=flat-square">
+  <img alt="CBC" src="https://img.shields.io/badge/CBC-203850?style=flat-square">
+  <img alt="PuLP" src="https://img.shields.io/badge/PuLP-203850?style=flat-square">
+  <img alt="Simul8" src="https://img.shields.io/badge/Simul8-203850?style=flat-square">
+  <img alt="Stata" src="https://img.shields.io/badge/Stata-1A476F?style=flat-square">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square">
 </p>
+
+Core interests: integer and mixed-integer programming, network design, heuristics and local
+search, **parallel computing**, discrete-event and system-dynamics **simulation**, supply-chain
+and logistics optimization, market microstructure, and reproducible modelling.
 
 ---
 
