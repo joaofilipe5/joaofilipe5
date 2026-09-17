@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.a8f7b38c.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.f016e308.svg">
-    <img alt="João Filipe. A network design instance with the optimal spanning tree highlighted." src="assets/hero-light.f016e308.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.37444811.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.ee2b3216.svg">
+    <img alt="João Filipe. 22 years old, golf, chess and handball. A network design instance with the optimal spanning tree highlighted." src="assets/hero-light.ee2b3216.svg" width="100%">
   </picture>
 </p>
 
@@ -203,9 +203,7 @@ and logistics optimization, market microstructure, and reproducible modelling.
 - <img alt="Efficio" src="assets/logo-efficio.3d7a528a.png" height="28"> &nbsp; **Consulting intern at Efficio.** Spend analysis, supplier assessment and sourcing decisions.
 - <img alt="Técnico Investment Club" src="assets/logo-tic.f0bbdb4d.png" height="28"> &nbsp; **Vice President / Head of Asset Management, Técnico Investment Club.** Portfolio risk visualization, optimization and simulation.
 
-**22 years old.** Languages: Portuguese (native) and English (fluent, Cambridge Advanced).
-
-**Outside work:** golf, chess and handball.
+**Languages:** Portuguese (native) · English (fluent, Cambridge Advanced).
 
 ---
 
