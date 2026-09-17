@@ -203,7 +203,9 @@ and logistics optimization, market microstructure, and reproducible modelling.
 - <img alt="Efficio" src="assets/logo-efficio.3d7a528a.png" height="28"> &nbsp; **Consulting intern at Efficio.** Spend analysis, supplier assessment and sourcing decisions.
 - <img alt="Técnico Investment Club" src="assets/logo-tic.f0bbdb4d.png" height="28"> &nbsp; **Vice President / Head of Asset Management, Técnico Investment Club.** Portfolio risk visualization, optimization and simulation.
 
-**Languages:** Portuguese (native) · English (fluent, Cambridge Advanced).
+**22 years old.** Languages: Portuguese (native) and English (fluent, Cambridge Advanced).
+
+**Outside work:** golf, chess and handball.
 
 ---
 
