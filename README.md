@@ -199,7 +199,7 @@ and logistics optimization, market microstructure, and reproducible modelling.
 ## Background
 
 - <img alt="Instituto Superior Técnico" src="assets/logo-ist.204a6456.png" height="28"> &nbsp; **MSc, Industrial Engineering and Management**, Instituto Superior Técnico, 2025–2027 · current GPA **18.2/20**. **BSc** in the same programme, 2022–2025.
-- <img alt="TU Delft" src="assets/logo-delft.ac2c2a12.png" height="28"> &nbsp; **Exchange semester** at TU Delft, Complex Systems Engineering and Management, September–December 2026.
+- <img alt="TU Delft" src="assets/logo-delft.ac2c2a12.png" height="28"> &nbsp; **Exchange semester** at TU Delft, Complex Systems Engineering and Management, September–January 2027.
 - <img alt="Efficio" src="assets/logo-efficio.3d7a528a.png" height="28"> &nbsp; **Consulting intern at Efficio.** Spend analysis, supplier assessment and sourcing decisions.
 - <img alt="Técnico Investment Club" src="assets/logo-tic.f0bbdb4d.png" height="28"> &nbsp; **Vice President / Head of Asset Management, Técnico Investment Club.** Portfolio risk visualization, optimization and simulation.
 
