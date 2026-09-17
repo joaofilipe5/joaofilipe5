@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img alt="AI automation" src="https://img.shields.io/badge/AI%20automation-0969DA?style=for-the-badge">
-  <img alt="Optimization" src="https://img.shields.io/badge/Optimization-BF8700?style=for-the-badge">
-  <img alt="Integer programming" src="https://img.shields.io/badge/Integer%20programming-1F883D?style=for-the-badge">
-  <img alt="Quantitative logistics and finance" src="https://img.shields.io/badge/Quant%20logistics%20%26%20finance-8250DF?style=for-the-badge">
+  <img alt="AI automation" src="https://img.shields.io/badge/AI%20automation-001A70?style=for-the-badge">
+  <img alt="Optimization" src="https://img.shields.io/badge/Optimization-123F87?style=for-the-badge">
+  <img alt="Integer programming" src="https://img.shields.io/badge/Integer%20programming-0B5FA8?style=for-the-badge">
+  <img alt="Quantitative logistics and finance" src="https://img.shields.io/badge/Quant%20logistics%20%26%20finance-0079BE?style=for-the-badge">
 </p>
 
 I build decision systems: I take an operational problem, write it down as a model, solve it with the right
@@ -27,7 +27,7 @@ the document-heavy operational work** that surrounds all three.
 
 ## Selected work
 
-<img alt="Optimization and integer programming" src="https://img.shields.io/badge/Optimization%20%26%20integer%20programming-BF8700?style=flat-square">
+<img alt="Optimization and integer programming" src="https://img.shields.io/badge/Optimization%20%26%20integer%20programming-001A70?style=flat-square">
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
@@ -36,14 +36,14 @@ the document-heavy operational work** that surrounds all three.
 | [Travelling purchaser visualizer](https://github.com/joaofilipe5/top-visualizer) | Joint purchasing and routing decisions made visible — construction heuristics and local search you can step through in the browser | React · TypeScript · Heuristics |
 | [Justice operations: ML + allocation](https://github.com/joaofilipe5/PIC) | Forecasting completed court cases, then feeding those forecasts into an integer staff-allocation model | Python · Gurobi · Regression &amp; ensembles |
 
-<img alt="Quantitative finance" src="https://img.shields.io/badge/Quantitative%20finance-8250DF?style=flat-square">
+<img alt="Quantitative finance" src="https://img.shields.io/badge/Quantitative%20finance-0B5FA8?style=flat-square">
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
 | [Limit order book simulation](https://github.com/joaofilipe5/limit-order-book-simulation) | A discrete-event matching engine plus analysis of the order flow it generates: arrivals, executions, cancellations, depth and spread | Simul8 · Python · pandas |
 | [Twin-win barrier payoff](https://github.com/joaofilipe5/TwinWinOption) | Monte Carlo simulation of a twin-win structure on WTI, with seeded, reproducible runs and explicit assumptions | Python · Monte Carlo · NumPy |
 
-<img alt="Simulation and modelling" src="https://img.shields.io/badge/Simulation%20%26%20modelling-1F883D?style=flat-square">
+<img alt="Simulation and modelling" src="https://img.shields.io/badge/Simulation%20%26%20modelling-203850?style=flat-square">
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
@@ -98,13 +98,13 @@ answer, and say where the model stops being trustworthy.
 
 ## Private work
 
-<img alt="Private repositories" src="https://img.shields.io/badge/PRIVATE-CODE%20NOT%20PUBLIC-30363D?style=for-the-badge&labelColor=BF8700">
+<img alt="Private repositories" src="https://img.shields.io/badge/PRIVATE-CODE%20NOT%20PUBLIC-203850?style=for-the-badge&labelColor=0079BE">
 
 Two systems I design and build for a **Portuguese freight forwarder** take most of my engineering time.
 Both repositories are private and the client is not named, so the summaries below stand in for code I
 cannot link.
 
-### Operations platform &nbsp; <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img alt="Status: preparing for rollout" src="https://img.shields.io/badge/status-preparing%20for%20rollout-BF8700?style=flat-square&labelColor=161B22">
+### Operations platform &nbsp; <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B5FA8?style=flat-square&logo=typescript&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0B5FA8?style=flat-square&logo=postgresql&logoColor=white"> <img alt="Status: preparing for rollout" src="https://img.shields.io/badge/status-preparing%20for%20rollout-0079BE?style=flat-square&labelColor=203850">
 
 The system that replaces spreadsheets and email across the life of a shipment — quotation, award,
 operation, documentation, delivery. It carries the commercial layer too: sell price against cost, margin
@@ -122,7 +122,7 @@ to stop and ask rather than to pick the convenient one or to invent a third answ
 no hosting or scheduler yet and it has not yet run on a live shipment — the documentation says so on its
 front page, and so do I.
 
-### Customs filing automation &nbsp; <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="OCR" src="https://img.shields.io/badge/OCR-Tesseract-1F883D?style=flat-square&labelColor=161B22">
+### Customs filing automation &nbsp; <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B5FA8?style=flat-square&logo=javascript&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-0B5FA8?style=flat-square&logo=python&logoColor=white"> <img alt="OCR" src="https://img.shields.io/badge/OCR-Tesseract-0B5FA8?style=flat-square&labelColor=203850">
 
 A browser extension that removes the manual re-typing between a customs declaration and a government
 filing portal, in both directions of the warehouse — goods in and goods out. It reads the declaration and
@@ -165,34 +165,34 @@ script emits the same core as a userscript for machines where extensions are loc
 </p>
 
 <p align="center">
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
-  <img alt="Gurobi" src="https://img.shields.io/badge/Gurobi-EE3524?style=flat-square">
-  <img alt="CBC" src="https://img.shields.io/badge/CBC-1F883D?style=flat-square">
-  <img alt="PuLP" src="https://img.shields.io/badge/PuLP-2F6FEB?style=flat-square">
-  <img alt="Simul8" src="https://img.shields.io/badge/Simul8-8250DF?style=flat-square">
-  <img alt="Stata" src="https://img.shields.io/badge/Stata-1A5F7A?style=flat-square">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-123F87?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-123F87?style=flat-square&logo=latex&logoColor=white">
+  <img alt="Gurobi" src="https://img.shields.io/badge/Gurobi-123F87?style=flat-square">
+  <img alt="CBC" src="https://img.shields.io/badge/CBC-123F87?style=flat-square">
+  <img alt="PuLP" src="https://img.shields.io/badge/PuLP-123F87?style=flat-square">
+  <img alt="Simul8" src="https://img.shields.io/badge/Simul8-123F87?style=flat-square">
+  <img alt="Stata" src="https://img.shields.io/badge/Stata-123F87?style=flat-square">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-123F87?style=flat-square">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-123F87?style=flat-square">
 </p>
 
 ---
 
 ## Background
 
-- <img alt="Instituto Superior Técnico" src="https://img.shields.io/badge/Instituto%20Superior%20Técnico-009DE0?style=flat-square"> &nbsp; **MSc, Industrial Engineering and Management**, 2025–2027 · current GPA **18.2/20**. **BSc** in the same programme, 2022–2025.
-- <img alt="TU Delft" src="https://img.shields.io/badge/TU%20Delft-00A6D6?style=flat-square"> &nbsp; **Exchange semester** in Complex Systems Engineering and Management, September–December 2026.
-- <img alt="Efficio" src="https://img.shields.io/badge/Efficio-E4002B?style=flat-square"> &nbsp; **Consulting intern** — spend analysis, supplier assessment and sourcing decisions.
-- <img alt="Técnico Investment Club" src="https://img.shields.io/badge/Técnico%20Investment%20Club-1F883D?style=flat-square"> &nbsp; **Vice President / Head of Asset Management** — portfolio risk visualization, optimization and simulation.
+- <img alt="Instituto Superior Técnico" src="assets/logo-ist.png" height="28"> &nbsp; **MSc, Industrial Engineering and Management**, Instituto Superior Técnico, 2025–2027 · current GPA **18.2/20**. **BSc** in the same programme, 2022–2025.
+- <img alt="TU Delft" src="assets/logo-delft.png" height="28"> &nbsp; **Exchange semester** at TU Delft, Complex Systems Engineering and Management, September–December 2026.
+- <img alt="Efficio" src="assets/logo-efficio.png" height="28"> &nbsp; **Consulting intern at Efficio** — spend analysis, supplier assessment and sourcing decisions.
+- <img alt="Técnico Investment Club" src="assets/logo-tic.png" height="28"> &nbsp; **Vice President / Head of Asset Management, Técnico Investment Club** — portfolio risk visualization, optimization and simulation.
 
 **Languages:** Portuguese (native) · English (fluent, Cambridge Advanced).
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-filipe-495848249/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-filipe-495848249/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-001A70?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
-  <a href="mailto:joaofilipe.contact@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-BF8700?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+  <a href="mailto:joaofilipe.contact@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0079BE?style=for-the-badge&logo=maildotru&logoColor=white"></a>
   &nbsp;
-  <a href="https://github.com/joaofilipe5?tab=repositories"><img alt="All repositories" src="https://img.shields.io/badge/All%20repositories-30363D?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/joaofilipe5?tab=repositories"><img alt="All repositories" src="https://img.shields.io/badge/All%20repositories-203850?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
