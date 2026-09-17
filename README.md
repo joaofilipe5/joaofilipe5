@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.37444811.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.ee2b3216.svg">
-    <img alt="João Filipe. 22 years old, golf, chess and handball. A network design instance with the optimal spanning tree highlighted." src="assets/hero-light.ee2b3216.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.8d9ca7e9.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.58ebd4df.svg">
+    <img alt="João Filipe. Golf, chess and handball. A network design instance with the optimal spanning tree highlighted." src="assets/hero-light.58ebd4df.svg" width="100%">
   </picture>
 </p>
 
