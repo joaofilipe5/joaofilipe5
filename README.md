@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.4c060316.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.266dc534.svg">
-    <img alt="João Filipe — optimization, integer programming and AI automation" src="assets/hero-light.266dc534.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.3987cabf.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.9232c579.svg">
+    <img alt="João Filipe: optimization, integer programming and AI automation" src="assets/hero-light.9232c579.svg" width="100%">
   </picture>
 </p>
 
@@ -12,14 +12,14 @@
   <img alt="Quantitative logistics and finance" src="https://img.shields.io/badge/Quant%20logistics%20%26%20finance-0079BE?style=for-the-badge">
 </p>
 
-I build decision systems: I take an operational problem, write it down as a model, solve it with the right
-tool — an exact formulation when the problem admits one, a heuristic when it does not — and then ship the
-result into something a person actually uses. MSc in Industrial Engineering and Management at
+I build decision systems. I take an operational problem, write it down as a model, solve it with the
+right tool, and then ship the result into something a person actually uses. That means an exact
+formulation when the problem admits one, and a heuristic when it does not. MSc in Industrial Engineering and Management at
 **Instituto Superior Técnico**, currently on exchange in Complex Systems Engineering and Management at
 **TU Delft**.
 
 Most of my work sits in one of four places: **integer programming and network design**, **supply-chain and
-logistics optimization**, **quantitative finance and market simulation**, and — increasingly — **automating
+logistics optimization**, **quantitative finance and market simulation**, and, increasingly, **automating
 the document-heavy operational work** that surrounds all three.
 
 ---
@@ -32,7 +32,7 @@ the document-heavy operational work** that surrounds all three.
 |---|---|---|
 | [Hop-constrained spanning trees](https://github.com/joaofilipe5/hop-constrained-spanning-tree) | Network design under a bound on root-to-node hops: an exact MILP alongside a constructive tree-repair heuristic, compared on generated instances | Python · PuLP/CBC · NetworkX |
 | [Green hydrogen supply chain](https://github.com/joaofilipe5/GCAProject) | National-scale MIP: facility location, renewable allocation, storage, transport and investment timing, with a sensitivity study over the cost drivers | Python · PuLP/CBC · Sensitivity analysis |
-| [Travelling purchaser visualizer](https://github.com/joaofilipe5/top-visualizer) | Joint purchasing and routing decisions made visible — construction heuristics and local search you can step through in the browser | React · TypeScript · Heuristics |
+| [Travelling purchaser visualizer](https://github.com/joaofilipe5/top-visualizer) | Joint purchasing and routing decisions made visible: construction heuristics and local search you can step through in the browser | React · TypeScript · Heuristics |
 | [Justice operations: ML + allocation](https://github.com/joaofilipe5/PIC) | Forecasting completed court cases, then feeding those forecasts into an integer staff-allocation model | Python · Gurobi · Regression &amp; ensembles |
 
 <img alt="Quantitative finance" src="https://img.shields.io/badge/Quantitative%20finance-0B5FA8?style=flat-square">
@@ -50,7 +50,7 @@ the document-heavy operational work** that surrounds all three.
 | [Numerical methods for epidemics](https://github.com/joaofilipe5/Numerical_Methods_Epidemic) | SEIQV worm-propagation dynamics: equilibria by Newton iteration, trajectories by Heun integration | MATLAB · ODEs · Root finding |
 
 <details>
-<summary><b>More repositories</b> — smaller or older work, kept for the record</summary>
+<summary><b>More repositories</b>: smaller or older work, kept for the record</summary>
 
 <br>
 
@@ -73,11 +73,11 @@ Group coursework credits its full team.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.7eab4eff.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.833490f5.svg">
-    <img alt="Operational data to formulation, to an exact MILP or heuristics, to bounds and sensitivity, to a decision and the automation it ships into — with the outcome fed back" src="assets/pipeline-light.833490f5.svg" width="100%">
+    <img alt="Operational data to formulation, to an exact MILP or heuristics, to bounds and sensitivity, to a decision and the automation it ships into, with the outcome fed back" src="assets/pipeline-light.833490f5.svg" width="100%">
   </picture>
 </p>
 
-Most of what I build reduces to the same shape — choose what to open, and assign demand to it, at least cost:
+Most of what I build reduces to the same shape. Choose what to open, and assign demand to it, at least cost:
 
 $$
 \begin{aligned}
@@ -89,9 +89,9 @@ $$
 \end{aligned}
 $$
 
-Facilities, hydrogen plants, court staff, hops in a tree, purchases on a route — the objects change, the
-discipline does not: state the decision variables, defend every constraint, report the bound alongside the
-answer, and say where the model stops being trustworthy.
+Facilities, hydrogen plants, court staff, hops in a tree, purchases on a route. The objects change, the
+discipline does not. State the decision variables, defend every constraint, report the bound alongside
+the answer, and say where the model stops being trustworthy.
 
 ---
 
@@ -99,39 +99,54 @@ answer, and say where the model stops being trustworthy.
 
 <img alt="Private repositories" src="https://img.shields.io/badge/PRIVATE-CODE%20NOT%20PUBLIC-203850?style=for-the-badge&labelColor=0079BE">
 
-Two systems I design and build for a **Portuguese freight forwarder** take most of my engineering time.
-Both repositories are private and the client is not named, so the summaries below stand in for code I
-cannot link.
+I build and maintain two systems for a **Portuguese freight forwarder**. Both repositories are
+private and the client is not named, so these summaries stand in for code I cannot link.
 
 ### Operations platform &nbsp; <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img alt="Status: preparing for rollout" src="https://img.shields.io/badge/status-preparing%20for%20rollout-0079BE?style=flat-square&labelColor=203850">
 
-The system that replaces spreadsheets and email across the life of a shipment — quotation, award,
-operation, documentation, delivery. It carries the commercial layer too: sell price against cost, margin
-per shipment, multi-currency freight, and role-based access so that each profile sees only its own slice.
-TypeScript throughout, PostgreSQL with logic pushed into the database where it belongs, and mailbox
-ingestion that turns the messages an operation already receives into structured records.
+This is the system the company uses to run a shipment from start to finish. The work used to live
+in spreadsheets and email.
 
-The part I am most deliberate about is not the code. The repository keeps a documentation *canon* with a
-precedence rule — **the code wins over every document; a document that disagrees with the code is the
-thing that is wrong** — and every domain claim is tagged with its provenance: how the sector works, how
-this company works, what the code actually does. When two sources at the same level disagree, the rule is
-to stop and ask rather than to pick the convenient one or to invent a third answer.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/platform-dark.ed45b6aa.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/platform-light.4117dcc3.svg">
+    <img alt="Email and files feed the five stages of a shipment: quote, award, operation, documents, delivery. One record holds price, cost, margin and access for all of them." src="assets/platform-light.4117dcc3.svg" width="100%">
+  </picture>
+</p>
 
-**Where it stands:** being prepared for rollout. The paths are built and tested end to end, but there is
-no hosting or scheduler yet and it has not yet run on a live shipment — the documentation says so on its
-front page, and so do I.
+Everything about a shipment sits in one record. The quote, the costs, the documents and the
+delivery are all in the same place, and each person sees only the part their role allows.
+
+It also handles the money. What the client pays, what the shipment costs, the margin, and freight
+in more than one currency.
+
+It reads the company mailbox and turns those messages into records, so nobody copies data by hand.
+
+It is written in TypeScript. The data lives in PostgreSQL, with the rules that matter written into
+the database itself.
+
+The documentation has one rule: **the code wins**. If a document disagrees with the code, the
+document is wrong and gets fixed. Every claim about the business is marked with where it came
+from: how the industry works, how this company works, or what the code does. When two sources
+disagree, the rule is to stop and ask.
+
+**Where it stands.** It is being prepared for rollout. Everything is built and tested end to end.
+There is no hosting or scheduler yet, and it has not run on a real shipment.
 
 ### Customs filing automation &nbsp; <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="OCR" src="https://img.shields.io/badge/OCR-Tesseract-0B5FA8?style=flat-square&labelColor=203850">
 
-A browser extension that removes the manual re-typing between a customs declaration and a government
-filing portal, in both directions of the warehouse — goods in and goods out. It reads the declaration and
-the accompanying shipping documents, including scanned ones through OCR, matches each cargo line to its
-own document by cross-referencing the figures the two sources share, and fills the form.
+A Chrome extension that fills in a government customs portal, so the team stops retyping the same
+numbers. It works in both directions of the warehouse, goods in and goods out.
 
-The design constraint is the interesting part: **it never submits.** Editable fields are filled,
-read-only fields are checked against the source documents and marked pass or fail, anything the portal
-would reject is surfaced before it is sent — and then it stops, and a person presses the button. A build
-script emits the same core as a userscript for machines where extensions are locked down.
+It reads the customs declaration and the shipping documents, including scanned ones, using OCR. It
+matches each line of cargo to the right document by comparing figures that appear in both.
+
+**It never submits the form.** It fills the fields it can. It checks the fields it cannot change
+against the source documents and marks each one pass or fail. It shows anything the portal would
+reject. Then it stops, and a person presses the button.
+
+It also builds as a userscript, for computers where extensions are blocked.
 
 ---
 
@@ -185,8 +200,8 @@ and logistics optimization, market microstructure, and reproducible modelling.
 
 - <img alt="Instituto Superior Técnico" src="assets/logo-ist.204a6456.png" height="28"> &nbsp; **MSc, Industrial Engineering and Management**, Instituto Superior Técnico, 2025–2027 · current GPA **18.2/20**. **BSc** in the same programme, 2022–2025.
 - <img alt="TU Delft" src="assets/logo-delft.ac2c2a12.png" height="28"> &nbsp; **Exchange semester** at TU Delft, Complex Systems Engineering and Management, September–December 2026.
-- <img alt="Efficio" src="assets/logo-efficio.3d7a528a.png" height="28"> &nbsp; **Consulting intern at Efficio** — spend analysis, supplier assessment and sourcing decisions.
-- <img alt="Técnico Investment Club" src="assets/logo-tic.f0bbdb4d.png" height="28"> &nbsp; **Vice President / Head of Asset Management, Técnico Investment Club** — portfolio risk visualization, optimization and simulation.
+- <img alt="Efficio" src="assets/logo-efficio.3d7a528a.png" height="28"> &nbsp; **Consulting intern at Efficio.** Spend analysis, supplier assessment and sourcing decisions.
+- <img alt="Técnico Investment Club" src="assets/logo-tic.f0bbdb4d.png" height="28"> &nbsp; **Vice President / Head of Asset Management, Técnico Investment Club.** Portfolio risk visualization, optimization and simulation.
 
 **Languages:** Portuguese (native) · English (fluent, Cambridge Advanced).
 
