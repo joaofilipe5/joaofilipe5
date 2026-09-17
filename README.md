@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img alt="AI automation" src="https://img.shields.io/badge/01-AI%20automation-0969DA?style=for-the-badge&labelColor=161B22">
-  <img alt="Optimization" src="https://img.shields.io/badge/02-Optimization-BF8700?style=for-the-badge&labelColor=161B22">
-  <img alt="Integer programming" src="https://img.shields.io/badge/03-Integer%20programming-1F883D?style=for-the-badge&labelColor=161B22">
-  <img alt="Quantitative logistics and finance" src="https://img.shields.io/badge/04-Quantitative%20logistics%20%26%20finance-8250DF?style=for-the-badge&labelColor=161B22">
+  <img alt="AI automation" src="https://img.shields.io/badge/AI%20automation-0969DA?style=for-the-badge">
+  <img alt="Optimization" src="https://img.shields.io/badge/Optimization-BF8700?style=for-the-badge">
+  <img alt="Integer programming" src="https://img.shields.io/badge/Integer%20programming-1F883D?style=for-the-badge">
+  <img alt="Quantitative logistics and finance" src="https://img.shields.io/badge/Quant%20logistics%20%26%20finance-8250DF?style=for-the-badge">
 </p>
 
 I build decision systems: I take an operational problem, write it down as a model, solve it with the right
