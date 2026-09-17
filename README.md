@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img alt="João Filipe — optimization, integer programming and AI automation" src="assets/hero-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=2">
+    <img alt="João Filipe — optimization, integer programming and AI automation" src="assets/hero-light.svg?v=2" width="100%">
   </picture>
 </p>
 
@@ -72,9 +72,9 @@ Group coursework credits its full team.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg">
-    <img alt="Operational data to formulation, to an exact MILP or heuristics, to bounds and sensitivity, to a decision and the automation it ships into — with the outcome fed back" src="assets/pipeline-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg?v=2">
+    <img alt="Operational data to formulation, to an exact MILP or heuristics, to bounds and sensitivity, to a decision and the automation it ships into — with the outcome fed back" src="assets/pipeline-light.svg?v=2" width="100%">
   </picture>
 </p>
 
