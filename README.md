@@ -27,13 +27,13 @@ Individual project READMEs describe the tools actually used, input requirements 
 
 ## Background
 
-- **MSc, Industrial Engineering and Management**, Instituto Superior Técnico, 2025–2027. Current GPA in my CV: **18.2/20**.
+- **MSc, Industrial Engineering and Management**, Instituto Superior Técnico, 2025–2027. Current GPA: **18.2/20**.
 - **Exchange semester**, TU Delft, September–December 2026.
 - **BSc, Industrial Engineering and Management**, Instituto Superior Técnico, 2022–2025.
 - Former **consulting intern at Efficio** and **Vice President / Head of Asset Management at Técnico Investment Club**.
 
 My investment-club work included portfolio risk visualization, optimization and simulation. My consulting experience involved spend analysis, supplier assessments and sourcing decisions.
 
-**Human languages:** Portuguese (native) and English (fluent; Cambridge Advanced).
+**Spoken languages:** Portuguese (native) and English (fluent; Cambridge Advanced).
 
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-filipe-495848249/) · [Email](mailto:joaofilipe.contact@gmail.com)
