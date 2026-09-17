@@ -1,15 +1,15 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.3987cabf.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.9232c579.svg">
-    <img alt="João Filipe: optimization, integer programming and AI automation" src="assets/hero-light.9232c579.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.0651852e.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.be41e7d8.svg">
+    <img alt="João Filipe: optimization, integer programming and AI automation" src="assets/hero-light.be41e7d8.svg" width="100%">
   </picture>
 </p>
 
 <p align="center">
   <img alt="Optimization" src="https://img.shields.io/badge/Optimization-001A70?style=for-the-badge">
   <img alt="Integer programming" src="https://img.shields.io/badge/Integer%20programming-0B5FA8?style=for-the-badge">
-  <img alt="Simulation" src="https://img.shields.io/badge/Quant%20logistics%20%26%20finance-0079BE?style=for-the-badge">
+  <img alt="Simulation" src="https://img.shields.io/badge/Simulation-0079BE?style=for-the-badge">
 </p>
 
 I build decision systems. I take an operational problem, write it down as a model, solve it with the
