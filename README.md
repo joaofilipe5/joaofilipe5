@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=2">
-    <img alt="João Filipe — optimization, integer programming and AI automation" src="assets/hero-light.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.4c060316.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.266dc534.svg">
+    <img alt="João Filipe — optimization, integer programming and AI automation" src="assets/hero-light.266dc534.svg" width="100%">
   </picture>
 </p>
 
@@ -72,9 +72,9 @@ Group coursework credits its full team.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg?v=2">
-    <img alt="Operational data to formulation, to an exact MILP or heuristics, to bounds and sensitivity, to a decision and the automation it ships into — with the outcome fed back" src="assets/pipeline-light.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.7eab4eff.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.833490f5.svg">
+    <img alt="Operational data to formulation, to an exact MILP or heuristics, to bounds and sensitivity, to a decision and the automation it ships into — with the outcome fed back" src="assets/pipeline-light.833490f5.svg" width="100%">
   </picture>
 </p>
 
@@ -180,10 +180,10 @@ script emits the same core as a userscript for machines where extensions are loc
 
 ## Background
 
-- <img alt="Instituto Superior Técnico" src="assets/logo-ist.png" height="28"> &nbsp; **MSc, Industrial Engineering and Management**, Instituto Superior Técnico, 2025–2027 · current GPA **18.2/20**. **BSc** in the same programme, 2022–2025.
-- <img alt="TU Delft" src="assets/logo-delft.png" height="28"> &nbsp; **Exchange semester** at TU Delft, Complex Systems Engineering and Management, September–December 2026.
-- <img alt="Efficio" src="assets/logo-efficio.png" height="28"> &nbsp; **Consulting intern at Efficio** — spend analysis, supplier assessment and sourcing decisions.
-- <img alt="Técnico Investment Club" src="assets/logo-tic.png" height="28"> &nbsp; **Vice President / Head of Asset Management, Técnico Investment Club** — portfolio risk visualization, optimization and simulation.
+- <img alt="Instituto Superior Técnico" src="assets/logo-ist.204a6456.png" height="28"> &nbsp; **MSc, Industrial Engineering and Management**, Instituto Superior Técnico, 2025–2027 · current GPA **18.2/20**. **BSc** in the same programme, 2022–2025.
+- <img alt="TU Delft" src="assets/logo-delft.ac2c2a12.png" height="28"> &nbsp; **Exchange semester** at TU Delft, Complex Systems Engineering and Management, September–December 2026.
+- <img alt="Efficio" src="assets/logo-efficio.3d7a528a.png" height="28"> &nbsp; **Consulting intern at Efficio** — spend analysis, supplier assessment and sourcing decisions.
+- <img alt="Técnico Investment Club" src="assets/logo-tic.f0bbdb4d.png" height="28"> &nbsp; **Vice President / Head of Asset Management, Técnico Investment Club** — portfolio risk visualization, optimization and simulation.
 
 **Languages:** Portuguese (native) · English (fluent, Cambridge Advanced).
 
