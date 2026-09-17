@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.0651852e.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.be41e7d8.svg">
-    <img alt="João Filipe: optimization, integer programming and AI automation" src="assets/hero-light.be41e7d8.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.a8f7b38c.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.f016e308.svg">
+    <img alt="João Filipe. A network design instance with the optimal spanning tree highlighted." src="assets/hero-light.f016e308.svg" width="100%">
   </picture>
 </p>
 
