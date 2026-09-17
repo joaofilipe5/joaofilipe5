@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="Optimization" src="https://img.shields.io/badge/Optimization-001A70?style=for-the-badge">
   <img alt="Integer programming" src="https://img.shields.io/badge/Integer%20programming-0B5FA8?style=for-the-badge">
-  <img alt="Quantitative logistics and finance" src="https://img.shields.io/badge/Quant%20logistics%20%26%20finance-0079BE?style=for-the-badge">
+  <img alt="Simulation" src="https://img.shields.io/badge/Quant%20logistics%20%26%20finance-0079BE?style=for-the-badge">
 </p>
 
 I build decision systems. I take an operational problem, write it down as a model, solve it with the
