@@ -154,11 +154,9 @@ It also builds as a userscript, for computers where extensions are blocked.
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
   <img alt="Gurobi" src="https://img.shields.io/badge/Gurobi-EE3524?style=flat-square">
-  <img alt="CBC" src="https://img.shields.io/badge/CBC-203850?style=flat-square">
   <img alt="PuLP" src="https://img.shields.io/badge/PuLP-203850?style=flat-square">
   <img alt="Simul8" src="https://img.shields.io/badge/Simul8-203850?style=flat-square">
   <img alt="Stata" src="https://img.shields.io/badge/Stata-1A476F?style=flat-square">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square">
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square">
 </p>
 
