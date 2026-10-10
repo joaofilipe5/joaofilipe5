@@ -67,34 +67,6 @@ Group coursework credits its full team.
 
 ---
 
-## How a problem becomes a decision
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.7eab4eff.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.833490f5.svg">
-    <img alt="Operational data to formulation, to an exact MILP or heuristics, to bounds and sensitivity, to a decision and the automation it ships into, with the outcome fed back" src="assets/pipeline-light.833490f5.svg" width="100%">
-  </picture>
-</p>
-
-Most of what I build reduces to the same shape. Choose what to open, and assign demand to it, at least cost:
-
-$$
-\begin{aligned}
-\min_{x,y} \quad & \sum_{i \in F} f_i y_i + \sum_{i \in F} \sum_{j \in C} c_{ij} x_{ij} \\
-\text{subject to} \quad & \sum_{i \in F} x_{ij} = 1 \quad \forall j \in C \\
-& x_{ij} \le y_i \quad \forall i \in F, \quad j \in C \\
-& \sum_{j \in C} d_j x_{ij} \le K_i y_i \quad \forall i \in F \\
-& x_{ij} \ge 0, \quad y_i \in \lbrace 0, 1 \rbrace
-\end{aligned}
-$$
-
-Facilities, hydrogen plants, court staff, hops in a tree, purchases on a route. The objects change, the
-discipline does not. State the decision variables, defend every constraint, report the bound alongside
-the answer, and say where the model stops being trustworthy.
-
----
-
 ## Private work
 
 <img alt="Private repositories" src="https://img.shields.io/badge/PRIVATE-CODE%20NOT%20PUBLIC-203850?style=for-the-badge&labelColor=0079BE">
